@@ -1,0 +1,38 @@
+
+ body{
+ font-family: 'roboto';
+ background-image: url(/14718473-vide-dressing-moderne-garde-robe-chambre-interieur-gratuit-vectoriel.jpg);
+
+ }
+
+ #total{
+ margin-left: 600px;
+ 
+ }
+ #para{
+color: blueviolet;
+text-size-adjust:40px;
+margin-left: 577px;
+width: fit-content;
+ }
+
+ .first{
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-direction: row-reverse column;
+margin-right: 10%;
+ }
+ .syrine{
+width: 250px;
+height: 180%;
+padding-bottom: 5%;
+ }
+ 
+ .redC{
+    color: red;
+}
+
+ 
+
+
